@@ -1,0 +1,180 @@
+name: Update OpenClash domain subscriptions
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "37 18 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-openclash-domain-subscriptions
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Generate iKuaiBypass pure-domain subscriptions
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          from urllib.request import Request, urlopen
+          import re
+
+          DOMAIN = re.compile(r"[a-z0-9](?:[a-z0-9.-]*[a-z0-9])?\.[a-z0-9-]+")
+          OUT = Path("rules")
+          OUT.mkdir(exist_ok=True)
+
+          geosites = [
+              ("private", "private"),
+              ("google-cn", "google-cn"),
+              ("category-games@cn", "category-games-cn"),
+              ("category-game-platforms-download", "category-game-platforms-download"),
+              ("category-public-tracker", "category-public-tracker"),
+              ("category-communication", "category-communication"),
+              ("category-social-media-!cn", "category-social-media-not-cn"),
+              ("talkatone", "talkatone"),
+              ("openai", "openai"),
+              ("onedrive", "onedrive"),
+              ("bing", "bing"),
+              ("category-ai-!cn", "category-ai-not-cn"),
+              ("github", "github"),
+              ("category-speedtest", "category-speedtest"),
+              ("steam", "steam"),
+              ("youtube", "youtube"),
+              ("apple-tvplus", "apple-tvplus"),
+              ("apple", "apple"),
+              ("microsoft", "microsoft"),
+              ("googlefcm", "googlefcm"),
+              ("google", "google"),
+              ("tiktok", "tiktok"),
+              ("netflix", "netflix"),
+              ("disney", "disney"),
+              ("hbo", "hbo"),
+              ("primevideo", "primevideo"),
+              ("category-emby", "category-emby"),
+              ("spotify", "spotify"),
+              ("bahamut", "bahamut"),
+              ("category-games", "category-games"),
+              ("category-entertainment", "category-entertainment"),
+              ("category-pt", "category-pt"),
+              ("paypal", "paypal"),
+              ("category-ecommerce", "category-ecommerce"),
+              ("gfw", "gfw"),
+              ("cn", "cn"),
+          ]
+
+          classical = [
+              ("custom-direct-classical", "https://raw.githubusercontent.com/iurd/OpenClash_Rules/refs/heads/main/rule/Custom_Direct_Classical.yaml"),
+              ("custom-proxy-classical", "https://raw.githubusercontent.com/iurd/OpenClash_Rules/refs/heads/main/rule/Custom_Proxy_Classical.yaml"),
+              ("steam-cdn-classical", "https://raw.githubusercontent.com/iurd/OpenClash_Rules/refs/heads/main/rule/Steam_CDN_Classical.yaml"),
+          ]
+
+          def fetch(url):
+              req = Request(url, headers={"User-Agent": "ikuai-rules-updater"})
+              with urlopen(req, timeout=60) as response:
+                  return response.read().decode("utf-8-sig")
+
+          def valid(value):
+              value = value.lower().strip().rstrip(".")
+              return value if DOMAIN.fullmatch(value) and ".." not in value else None
+
+          def parse_domain_behavior(text):
+              result = set()
+              for raw in text.splitlines():
+                  line = raw.strip()
+                  if not line or line.startswith("#") or line == "payload:":
+                      continue
+                  if line.startswith("-"):
+                      line = line[1:].strip()
+                  line = line.strip("'\"")
+                  if line.startswith(("+.", "*.")):
+                      line = line[2:]
+                  item = valid(line)
+                  if item:
+                      result.add(item)
+              return result
+
+          def parse_classical(text):
+              result = set()
+              for raw in text.splitlines():
+                  line = raw.strip()
+                  if not line or line.startswith("#") or line == "payload:":
+                      continue
+                  if line.startswith("-"):
+                      line = line[1:].strip()
+                  line = line.strip("'\"")
+                  fields = [part.strip() for part in line.split(",")]
+                  if len(fields) >= 2 and fields[0].upper() in {"DOMAIN", "DOMAIN-SUFFIX"}:
+                      item = valid(fields[1])
+                      if item:
+                          result.add(item)
+              return result
+
+          generated = {}
+          base = "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite"
+          for source, slug in geosites:
+              domains = parse_domain_behavior(fetch(f"{base}/{source}.yaml"))
+              if not domains:
+                  raise RuntimeError(f"No domains generated for GEOSITE {source}")
+              generated[slug] = domains
+              (OUT / f"{slug}.txt").write_text("\n".join(sorted(domains)) + "\n", encoding="utf-8")
+              print(f"{slug}: {len(domains)} domains")
+
+          for slug, url in classical:
+              domains = parse_classical(fetch(url))
+              if not domains:
+                  raise RuntimeError(f"No convertible domains generated for {slug}")
+              generated[slug] = domains
+              (OUT / f"{slug}.txt").write_text("\n".join(sorted(domains)) + "\n", encoding="utf-8")
+              print(f"{slug}: {len(domains)} domains")
+
+          direct_slugs = {
+              "private", "google-cn", "category-games-cn",
+              "category-game-platforms-download", "category-public-tracker",
+              "cn", "custom-direct-classical", "steam-cdn-classical",
+          }
+          direct = set().union(*(generated[name] for name in direct_slugs))
+          proxy = set().union(*(domains for name, domains in generated.items() if name not in direct_slugs))
+          (OUT / "wan1-direct.txt").write_text("\n".join(sorted(direct)) + "\n", encoding="utf-8")
+          (OUT / "wan2-services.txt").write_text("\n".join(sorted(proxy)) + "\n", encoding="utf-8")
+
+          lines = [
+              "# iKuaiBypass pure-domain subscriptions",
+              "",
+              "Every .txt file contains one plain domain per line.",
+              "GEOSITE entries and convertible DOMAIN/DOMAIN-SUFFIX rules are included.",
+              "GEOIP, DOMAIN-KEYWORD, port rules and MATCH cannot be represented as pure domains and are intentionally omitted.",
+              "",
+              "## Aggregate subscriptions",
+              "",
+              "- WAN1/direct: https://raw.githubusercontent.com/Re2peR/ikuai-rules/main/rules/wan1-direct.txt",
+              "- WAN2/services: https://raw.githubusercontent.com/Re2peR/ikuai-rules/main/rules/wan2-services.txt",
+              "",
+              "## Individual subscriptions",
+              "",
+          ]
+          for slug in sorted(generated):
+              lines.append(f"- {slug}: https://raw.githubusercontent.com/Re2peR/ikuai-rules/main/rules/{slug}.txt")
+          (OUT / "README.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+          PY
+
+      - name: Commit updated subscriptions
+        shell: bash
+        run: |
+          if [ -z "$(git status --porcelain -- rules)" ]; then
+            echo "No changes detected."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add rules
+          git commit -m "chore: update OpenClash domain subscriptions"
+          git push
