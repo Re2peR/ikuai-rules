@@ -1,0 +1,66 @@
+name: Update Netflix domains
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 18 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-netflix-domains
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download and clean Netflix domains
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl --fail --silent --show-error --location --retry 3 \
+            "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/netflix" \
+            --output upstream-netflix.txt
+
+          cat upstream-netflix.txt custom/netflix-extra.txt | awk '
+            {
+              gsub(/\r/, "")
+              sub(/^[[:space:]]+/, "")
+              sub(/[[:space:]]+$/, "")
+            }
+            $0 == "" || $0 ~ /^#/ || $0 ~ /^regexp:/ || $0 ~ /^include:/ || $0 ~ /^ext:/ { next }
+            {
+              sub(/^full:/, "")
+              split($0, fields, /[[:space:]]+/)
+              domain = tolower(fields[1])
+              if (domain ~ /^[a-z0-9][a-z0-9.-]*\.[a-z0-9-]+$/ && domain !~ /\.\./) print domain
+            }
+          ' | sort -u > netflix.txt
+
+          rm upstream-netflix.txt
+          test -s netflix.txt
+          grep -qx "netflix.com" netflix.txt
+          grep -qx "nflxvideo.net" netflix.txt
+
+          if [ "$(date -u +%d)" = "01" ]; then
+            date -u +"%Y-%m-%dT%H:%M:%SZ" > .last-netflix-check
+          fi
+
+      - name: Commit updated domains
+        shell: bash
+        run: |
+          if [ -z "$(git status --porcelain -- netflix.txt .last-netflix-check)" ]; then
+            echo "No changes detected."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add netflix.txt
+          if [ -f .last-netflix-check ]; then git add .last-netflix-check; fi
+          git commit -m "chore: update Netflix domain list"
+          git push
