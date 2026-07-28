@@ -42933,6 +42933,7 @@ githubnext.com
 githubpreview.dev
 githubshare.com
 githubstatus.com
+githubsupport.com
 githubuniverse.com
 githubusercontent.com
 gitinn.com
@@ -100770,6 +100771,7 @@ truthsocial.com
 truzem.com
 trvok.com
 trwl.net
+tryai.dev
 tryfun.com
 tryfunctions.com
 tryheart.jp
