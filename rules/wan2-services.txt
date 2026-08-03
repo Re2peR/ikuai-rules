@@ -24702,6 +24702,7 @@ chspra.com
 chspv.com
 chste.com
 chszzy.com
+cht.com.tw
 chtcmotor.com
 chtf.com
 chtfund.com
@@ -82337,7 +82338,6 @@ purcotton.com
 pure18.com
 pureage.info
 pureconcepts.net
-puredns.org
 pureh2b.com
 pureinsight.org
 purekindfund.com
@@ -85353,7 +85353,6 @@ radio1964.com
 radio366.com
 radioaustralia.net.au
 radiohilight.net
-radiojar.com
 radioline.co
 radiotj.com
 radiovaticana.org
@@ -87396,7 +87395,6 @@ safetyvod.com
 safewk.com
 safround.com
 sagepub.com
-sagernet.org
 sagigame.net
 sagsaas.com
 sagw.com
@@ -108450,7 +108448,6 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.bing.com
 www.cdnetworks.com
 www.cg
-www.clashverge.dev
 www.cmoinc.org
 www.com.my
 www.destinationurl.com
