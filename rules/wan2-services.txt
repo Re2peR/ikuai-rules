@@ -30911,6 +30911,8 @@ deeptrain.net
 deeptrip.com
 deepvinci.tech
 deepvps.com
+deepwiki.com
+deepwiki.org
 deer-express.com
 deerex.com
 deerfieldbch.com
@@ -42951,6 +42953,7 @@ glifegame.com
 glinfo.com
 glinkmedia.com
 glinksure.com
+glitchwave.com
 gljcss.com
 gljdjt.com
 gljiatianxia.com
@@ -79364,14 +79367,17 @@ ozocenter.com
 ozon-credit.ru
 ozon-dostavka.ru
 ozon-tech.ru
+ozon.app
 ozon.by
 ozon.com
 ozon.com.by
 ozon.com.kz
 ozon.dev
 ozon.express
+ozon.global
 ozon.kz
 ozon.li
+ozon.market
 ozon.ru
 ozon.tech
 ozon.tm
@@ -86867,6 +86873,7 @@ rutracker.net
 rutracker.org
 rutron.net
 rutube.ru
+rutube.sport
 rutubelist.ru
 ruu6373.com
 ruubypay.com
@@ -86953,6 +86960,7 @@ ryjer.com
 ryjiaoyu.com
 rylfj.com
 rylinkworld.com
+rym.fm
 rymcu.com
 rymooc.com
 ryone.net
@@ -92775,6 +92783,7 @@ snkyat.com
 snltty.com
 snlxgk.com
 snmandarin.com
+snmc.io
 snmi.com
 snmxzls.com
 snoba.net
@@ -93059,6 +93068,8 @@ somode.com
 somsds.com
 sonbest.com
 soncci.com
+sonematic.net
+sonemic.com
 songcn.com
 songcwh.com
 songduwuye.com
@@ -99051,6 +99062,8 @@ tj-guangxin.com
 tj-kingdee.com
 tj-model.com
 tj-pod1-smp-device.apple.com
+tj-pod2-smp-device.apple.com
+tj-pod3-smp-device.apple.com
 tj-un.com
 tj0573.com
 tj1-miui-bn-stage01.kscn

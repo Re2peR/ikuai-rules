@@ -648,6 +648,7 @@ gimy.co
 gimy.to
 gimy.tv
 giratina.com
+glitchwave.com
 gloryofheracles.com
 go-disneyworldgo.com
 go.com
@@ -1347,6 +1348,7 @@ quixel.se
 radgametools.com
 radiko-cf.com
 radiko.jp
+rateyourmusic.com
 ravm.tv
 rayark.download
 rayark.net
@@ -1435,7 +1437,9 @@ rtbcdn.ru
 rtm.tnt-ea.com
 ruinedking.com
 rutube.ru
+rutube.sport
 rutubelist.ru
+rym.fm
 s.team
 saiganak.com
 scc-hamivideo.cdn.hinet.net
@@ -1474,7 +1478,10 @@ sndcdn.com
 snk-corp.co.jp
 snk-corp.info
 snkplaymore.info
+snmc.io
 snowmiku.com
+sonematic.net
+sonemic.com
 sonyclassics.com
 sonyentertainmentnetwork.com
 sonypictures.com
