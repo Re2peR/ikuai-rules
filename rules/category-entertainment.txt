@@ -17,6 +17,7 @@
 12diasderegalosdeitunes.pe
 12joursdecadeauxdeitunes.com
 2025copy.com
+20thcenturystudios.com
 20thcenturystudios.com.au
 20thcenturystudios.com.br
 20thcenturystudios.jp
@@ -42,6 +43,7 @@ a.ppy.sh
 a4e8s8k3.map2.ssl.hwcdn.net
 abc-studios.com
 abc.com
+abcnews.com
 abema-tv.com
 abema.io
 abema.tv
@@ -122,6 +124,7 @@ argo-bdp.com
 arma3.com
 armaplatform.com
 artstation.com
+artstationmedia.com
 artstorm.com
 asobostudio.com
 assets.ppy.sh
@@ -141,6 +144,7 @@ bag.itunes.apple.com
 bahamut.akamaized.net
 bahamut.com.tw
 bamgrid.com
+bamtech.net
 bandcamp.com
 bang-dream.com
 bangumi.tv
@@ -219,7 +223,6 @@ buzzsprout.com
 byspotify.com
 bystys.tech
 bytedapm.com
-byteoversea.com
 c.ppy.sh
 callersbane.com
 callhulu.com
@@ -351,6 +354,7 @@ deadspacegame.com
 deezer.com
 denfaminicogamer.jp
 dengekionline.com
+detpress.com
 deviantart.com
 deviantart.net
 dfp6rglgjqszk.cloudfront.net
@@ -364,7 +368,6 @@ dicela.net
 diddykongracing.com
 dilcdn.com
 dinopoloclub.com
-directv.com
 disco-api.com
 discomax.com
 discoveryplus.com
@@ -414,7 +417,9 @@ disney.ro
 disney.ru
 disney.se
 disney.sg
+disneyaccount.com
 disneyadsales.com
+disneyanimation.com
 disneyarena.com
 disneyaulani.com
 disneybaby.com
@@ -429,6 +434,7 @@ disneyinternational.com
 disneyinternationalhd.com
 disneyjunior.com
 disneyjuniortreataday.com
+disneylandparis.com
 disneylatino.com
 disneymagicmoments.co.il
 disneymagicmoments.co.uk
@@ -451,11 +457,13 @@ disneypeoplesurveys.com
 disneyplus.bn5x.net
 disneyplus.com
 disneyplus.com.ssl.sc.omtrdc.net
+disneyprivacycenter.com
 disneyredirects.com
 disneysrivieraresort.com
 disneystore.com
 disneystreaming.com
 disneysubscription.com
+disneytermsofuse.com
 disneytickets.co.uk
 disneyturkiye.com.tr
 disneytvajobs.com
@@ -602,11 +610,14 @@ forzamotorsport.net
 forzaracingchampionship.com
 forzarc.com
 fpinit.itunes.apple.com
+freeform.com
 freehulu.com
 frostbite.com
 funimation.com
 futpromos.com
 futunited.com
+fxnetwork.com
+fxnetworks.com
 gaijin.net
 gaijinent.com
 game-repack.site
@@ -754,6 +765,7 @@ hls.itunes.apple.com
 hobbigame.com
 homebox.com
 homeboxoffice.com
+hongkongdisneyland.com
 honkaiimpact3.com
 honkaistarrail.com
 hooloo.tv
@@ -964,6 +976,7 @@ lordofultima.com
 loverslab.com
 lowiro.com
 lpl.com.cn
+lucasfilm.com
 lv.queniujq.cn
 m1.ppy.sh
 maddenchampionship.com
@@ -1250,6 +1263,7 @@ personaltrainermath.com
 piapro.net
 pinkcore.com
 pinkcore.net
+pixar.com
 pixiv-recommend.net
 pixiv.co.jp
 pixiv.help
@@ -1451,6 +1465,7 @@ se2.itunes.apple.com
 seagroup.com
 seaofsolitude.com
 search.itunes.apple.com
+searchlightpictures.com
 seeurlpcl.com
 sekai.colorfulpalette.org
 sendvid.com
@@ -1458,6 +1473,7 @@ sentry.ppy.sh
 sf-api-token-service.itunes.apple.com
 shadowcomplex.com
 shadowverse-evolve.com
+shanghaidisneyresort.com
 shopdisney.com
 shops-disney.com
 showtime.com
@@ -1637,6 +1653,7 @@ thesims4.com
 thesimssocial.com
 thestationbymaker.com
 thetvdb.com
+thewaltdisneycompany.com
 thewonderful101.com
 thisisgame.com
 thisispolaris.com
@@ -1674,6 +1691,7 @@ tmdb-image-prod.b-cdn.net
 tmdb-web-image-prod.b-cdn.net
 tmdb.org
 tnt-ea.com
+tokyodisneyresort.jp
 tospotify.com
 toy-people.com
 tra-ww000-cp.akamaized.net
@@ -1686,7 +1704,6 @@ ttvnw.net
 ttwstatic.com
 tv.apple.com
 tv.applemusic.com
-tvb.com
 tvcastlive-hamivideo.cdn.hinet.net
 tver.co.jp
 tver.jp
@@ -1780,6 +1797,7 @@ vrchat.com
 vrchat.net
 vrv.co
 wallhaven.cc
+waltdisneystudios.com
 wanuxi.com
 wargaming.com
 wargaming.net

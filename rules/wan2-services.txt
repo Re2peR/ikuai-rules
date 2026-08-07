@@ -2793,6 +2793,7 @@
 20on.com
 20planet.com
 20qu.com
+20thcenturystudios.com
 20thcenturystudios.com.au
 20thcenturystudios.com.br
 20thcenturystudios.jp
@@ -9880,6 +9881,7 @@ abcjiaoyu.com
 abckantu.com
 abcleasing.com
 abclogs.com
+abcnews.com
 abcpost.com.au
 abcs8.com
 abcsbank.com
@@ -13807,6 +13809,7 @@ artsbuy.com
 artshanghaifair.com
 artsoa.com
 artstation.com
+artstationmedia.com
 artstorm.com
 artverse.work
 artvisioncg.com
@@ -15344,6 +15347,7 @@ bamengame.com
 bamensq.com
 bamenzhushou.com
 bamgrid.com
+bamtech.net
 bamuwu.com
 bamuyu.com
 banana-vpn.com
@@ -20030,7 +20034,6 @@ bytenewst.com
 byteoc.com
 byteorg.com
 byteorge.com
-byteoversea.com
 byteox.com
 byteplus-api-test.com
 bytepluses-test.com
@@ -31121,6 +31124,7 @@ detaliczny.com
 detion.com
 detonfan.com
 detonger.com
+detpress.com
 detu.com
 deutsche-welle.de
 dev-dh.com
@@ -31930,7 +31934,6 @@ dir28.com
 directcreative.com
 directorfeng.com
 directui.com
-directv.com
 dis.gd
 dis9.net
 disco-api.com
@@ -32034,7 +32037,9 @@ disney.ro
 disney.ru
 disney.se
 disney.sg
+disneyaccount.com
 disneyadsales.com
+disneyanimation.com
 disneyarena.com
 disneyaulani.com
 disneybaby.com
@@ -32049,6 +32054,7 @@ disneyinternational.com
 disneyinternationalhd.com
 disneyjunior.com
 disneyjuniortreataday.com
+disneylandparis.com
 disneylatino.com
 disneymagicmoments.co.il
 disneymagicmoments.co.uk
@@ -32071,11 +32077,13 @@ disneypeoplesurveys.com
 disneyplus.bn5x.net
 disneyplus.com
 disneyplus.com.ssl.sc.omtrdc.net
+disneyprivacycenter.com
 disneyredirects.com
 disneysrivieraresort.com
 disneystore.com
 disneystreaming.com
 disneysubscription.com
+disneytermsofuse.com
 disneytickets.co.uk
 disneyturkiye.com.tr
 disneytvajobs.com
@@ -39566,6 +39574,7 @@ freefacebook.com
 freefacebook.net
 freefacebookads.net
 freefblikes.com
+freeform.com
 freegao.com
 freegeeker.com
 freegpt.es
@@ -40285,6 +40294,7 @@ fxlbb.com
 fxlbl.com
 fxltsbl.com
 fxm.so
+fxnetwork.com
 fxnetworks.com
 fxo2opt.com
 fxpai.com
@@ -51766,6 +51776,7 @@ hongkeyun.com
 hongkong.fandom.com
 hongkongairlines.com
 hongkonganran.com
+hongkongdisneyland.com
 hongkongfp.com
 hongkongmeixie.com
 hongku.com
@@ -69113,6 +69124,7 @@ lubiao.com
 lubiao.wiki
 lubotv.com
 luboyun.com
+lucasfilm.com
 luchengas.com
 luchentech.com
 luchenwater.com
@@ -80917,6 +80929,7 @@ piuqiupia.com
 pivotacp.com
 pivotautomotive.com
 pixapp.net
+pixar.com
 pixate.com
 pixbe.com
 pixcakeai.com
@@ -88663,6 +88676,7 @@ search.itunes.apple.com
 search.xxx
 search.yahoo.co.jp
 search616.com
+searchlightpictures.com
 searchpstatp.com
 searchstatic.com
 searchtb.com
@@ -98295,6 +98309,7 @@ thetype.cloud
 theuab.net
 thevaldezfamily.com
 thevideosworld.com
+thewaltdisneycompany.com
 theweek.com
 theweina.com
 thewestinpazhou.com
@@ -99523,6 +99538,7 @@ tokensky.net
 tokimekiclub.org
 tokyo-porn-tube.com
 tokyocn.com
+tokyodisneyresort.jp
 tol.vip
 tol24.com
 tom.cat
@@ -100951,7 +100967,6 @@ tvandnet.com
 tvapk.com
 tvapk.net
 tvappstore.net
-tvb.com
 tvbanywhere.com
 tvblack.com
 tvboxnow.com
@@ -104217,6 +104232,7 @@ walmart.pharmacy
 walmartimages.com
 walre.com
 walsongreenhouse.com
+waltdisneystudios.com
 waltermartin.com
 waltermartin.org
 waltzsy.com
