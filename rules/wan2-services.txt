@@ -14168,7 +14168,6 @@ aumantruck.com
 aunapi.com
 auniontech.com
 aunload.com
-auntology.fandom.com
 auoda.net
 auok.run
 auozzjs.lol
@@ -37448,6 +37447,7 @@ fandcode.com
 fandengds.com
 fandian.com
 fandiankeji.com
+fandom.com
 fandongxi.com
 fane8.com
 fanerkongjian.com
@@ -51773,7 +51773,6 @@ hongjinleather.com
 hongkang-life.com
 hongkegd.com
 hongkeyun.com
-hongkong.fandom.com
 hongkongairlines.com
 hongkonganran.com
 hongkongdisneyland.com
