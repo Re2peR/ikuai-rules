@@ -60,6 +60,9 @@ abdf002.com
 ac-pocketcamp.com
 acesofthunder.net
 activematter.game
+activision.com
+activisionblizzard.com
+activisionblizzardmedia.com
 alibaba.cdn.steampipe.steamcontent.com
 aligames.com
 amiibo.com
@@ -98,6 +101,7 @@ battlelog.com
 bcfmglobal.com
 bejeweledstars.com
 bejewled-stars.com
+benefitsforeveryworld.com
 benghuai.com
 beth.games
 bethesda.net
@@ -140,9 +144,15 @@ buke999.com
 bx1k.com
 c.ppy.sh
 callersbane.com
+callofduty.com
+callofdutyendowment.com
+callofdutyendowment.org
+callofdutyleague.com
+callofdutymobile.com
 camelot-europe.com
 camelotherald.com
 camelotherald.net
+candycrush.com
 capitalgames.com
 capturingreality.com
 cbjq.com
@@ -166,6 +176,7 @@ commandandconquer.com
 conquerwithcharacter.com
 convrgencegame.com
 cowlevel.net
+crashbandicoot.com
 crossout.net
 crsed.net
 crysis.jp
@@ -186,7 +197,10 @@ dawngate.com
 dawngatechronicles.com
 dayz.com
 deadspacegame.com
+demonware.net
+diablo.com
 diablo3.com
+diablo4.com
 diabloimmortal.com
 dialga.com
 dice.se
@@ -260,6 +274,7 @@ epicgames.com
 epicgames.dev
 epicgamescdn.com
 escapefromtarkov.com
+europeanwarzoneseries.com
 excitebots.com
 f3b7q2p3.ssl.hwcdn.net
 fab.com
@@ -362,6 +377,7 @@ heroesofdragonage.com
 heroesofthestorm.com
 heroesports.com
 herogame.com
+highmoonstudios.com
 historyofdota.com
 historyofdota.net
 historyofdota.org
@@ -382,6 +398,7 @@ ihykb.com
 img4399.com
 in.th
 industrialtoys.com
+infinityward.com
 insights-collector.gog.com
 instituteofwar.org
 itch.io
@@ -392,6 +409,7 @@ joinsquad.com
 joyjoy.net
 juequling.com
 kgisystems.com
+king.com
 kirbysepicyarn.com
 kirbysuperstarultra.com
 kiwi.jp
@@ -688,6 +706,7 @@ quiltmc.org
 quixel.com
 quixel.se
 radgametools.com
+ravensoftware.com
 rayark.download
 rayark.net
 rblx.co
@@ -779,10 +798,12 @@ seasungames.com
 seasunwbl.com
 seeurlpcl.com
 sekai.colorfulpalette.org
+sekirothegame.com
 sentry.ppy.sh
 shadowcomplex.com
 shengqugames.com
 shyxhy.com
+sierragames.com
 sih-db.com
 sih.app
 silicagame.com
@@ -791,10 +812,13 @@ simcity.com
 skate2.com
 sketchfab.com
 skydweller.cn
+skylanders.com
 sl916.com
+sledgehammergames.com
 snk-corp.co.jp
 snk-corp.info
 snkplaymore.info
+solidstate.com
 sonyentertainmentnetwork.com
 spearhead.kr
 spectator.ppy.sh
@@ -804,6 +828,7 @@ spigotmc.org
 splatoon2tournament.com
 spore.com
 spyjinx.com
+spyrothedragon.com
 squadbusters.com
 ssl-lvlt.cdn.ea.com
 ssx3.com
@@ -917,6 +942,9 @@ tiburon.com
 timibase.com
 titanfall.com
 tnt-ea.com
+tonyhawk.com
+tonyhawkthegame.com
+treyarch.com
 tuer123.com
 tuyoo.com
 twinmotion.com
@@ -1019,6 +1047,7 @@ worldoftanks.eu
 worldofwarcraft.com
 worldofwarplanes.com
 worldofwarships.com
+worldseriesofwarzone.com
 wotblitz.com
 wowsblitz.com
 wtmobile.com

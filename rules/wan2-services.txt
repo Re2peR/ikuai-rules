@@ -10133,6 +10133,9 @@ activation-gp.com
 activeclub.net
 activematter.game
 activepower.net
+activision.com
+activisionblizzard.com
+activisionblizzardmedia.com
 activity-dy.com
 activity-wbsj.com
 activity-zhendingtech.com
@@ -16671,6 +16674,7 @@ bendiso.com
 bendiw.cc
 bendizhidao.com
 benduo.net
+benefitsforeveryworld.com
 benewake.com
 benfuip.com
 bengbufan.com
@@ -20571,6 +20575,11 @@ callersbane.com
 callhulu.com
 callmekeji.com
 callmysoft.com
+callofduty.com
+callofdutyendowment.com
+callofdutyendowment.org
+callofdutyleague.com
+callofdutymobile.com
 callrui.com
 caloinfo.com
 calorietech.com
@@ -20638,6 +20647,7 @@ candiabiotech.com
 candou.com
 candybook.com
 candycake.cloud
+candycrush.com
 candypay.com
 candystars.net
 canet.com
@@ -28222,6 +28232,7 @@ crane-china.cc
 crane-net.com
 cranewh.com
 crash.work
+crashbandicoot.com
 crashlytics.com
 crashlyticsreports-pa.googleapis.com
 cravatar.com
@@ -31019,6 +31030,7 @@ demodashi.com
 demogic.com
 demon.tw
 demonlee.tech
+demonware.net
 demosisto.hk
 demososo.com
 denachina.com
@@ -31497,7 +31509,9 @@ di28nl.com
 di3ke.com
 di7cn.net
 di88.net
+diablo.com
 diablo3.com
+diablo4.com
 diablohu.com
 diabloimmortal.com
 diabrowser.com
@@ -36550,6 +36564,7 @@ euroipad.com
 euronews.com
 europapa.com
 europe.com.hk
+europeanwarzoneseries.com
 europewatch.com
 europewatch.com.hk
 eursell.com
@@ -50596,6 +50611,7 @@ highlightoptics.com
 highlionceramic.com
 highlm.com
 highly.cc
+highmoonstudios.com
 highrockmedia.com
 highsharp.com
 highstar.com
@@ -56766,6 +56782,7 @@ infinitiesai.com
 infinity8ball.com
 infinitynewtab.com
 infinitytab.com
+infinityward.com
 inflyway.com
 info-graf.fr
 info-insur.com
@@ -57206,6 +57223,8 @@ iot101.com
 iot688.com
 iot889.com
 iotachem.com
+iotaskyt.com
+iotaskyty.com
 iotbay.com
 iotfair.net
 iotinactionevents.com
@@ -64082,6 +64101,7 @@ kinescopecdn.net
 king-capital.com
 king-rain.com
 king-strong.com
+king.com
 kingandkey.com
 kingandwood.com
 kingbank.com
@@ -85247,6 +85267,7 @@ ratogh.com
 ratoo.net
 rauqa.net
 rauto.com
+ravensoftware.com
 raverstern.site
 ravm.tv
 raw.githack.com
@@ -88858,6 +88879,7 @@ sejai.com
 sejianghu.com
 sekai.colorfulpalette.org
 sekede.net
+sekirothegame.com
 sekorm.com
 selboo.com
 selectdataset.com
@@ -91568,6 +91590,7 @@ siec-ccpit.com
 siengine.com
 sienwater.com
 sieredu.com
+sierragames.com
 sieryun.com
 sif.com
 sifalu.com
@@ -92360,6 +92383,7 @@ skyfox.org
 skyhand.vip
 skyheng.com
 skyislets.com
+skylanders.com
 skyleon.com
 skylerzhang.com
 skymoons.com
@@ -92451,6 +92475,7 @@ sldns1.com
 slduntong.com
 sle.group
 sleazyfork.org
+sledgehammergames.com
 sleele.com
 sleepboy.com
 sleepwearinc.com
@@ -93056,6 +93081,7 @@ solidigm-asdf.com
 solidigm-nvme.com
 solidigm-zxcv.com
 solidot.org
+solidstate.com
 solidstatelion.com
 soliner.com
 solipharma.com
@@ -93667,6 +93693,7 @@ spwj.com
 spxgas.net
 spyjinx.com
 spyouxi.com
+spyrothedragon.com
 spzb.com
 spzp.com
 spzs.com
@@ -97151,6 +97178,7 @@ tbbbk.com
 tbcache.com
 tbcdn.com
 tbcollege.org
+tbdesk.com
 tbh5.com
 tbhcc.com
 tbhelper.com
@@ -99708,6 +99736,8 @@ tontime.com
 tontsen.com
 tony-bro.com
 tonycrane.cc
+tonyhawk.com
+tonyhawkthegame.com
 tonysfarm.com
 tonze.com
 toobiao.com
@@ -100217,6 +100247,7 @@ tressgroup.com
 tretars.com
 trevias.store
 trexiu.com
+treyarch.com
 trfgvb.com
 trfkyy.com
 trftpe.com
@@ -107402,6 +107433,7 @@ worldpathclinic.com
 worldpowerliftingchina.com
 worldrobotconference.com
 worldscientific.com
+worldseriesofwarzone.com
 worldsteel.net
 worldvpn.net
 worldwarner.com

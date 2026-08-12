@@ -53,6 +53,9 @@ abow.jp
 ac-pocketcamp.com
 acesofthunder.net
 activematter.game
+activision.com
+activisionblizzard.com
+activisionblizzardmedia.com
 adeventtracker.spotify.com
 ads-pixiv.net
 ads.youtube.com
@@ -167,6 +170,7 @@ beeline.tv
 beforeigners.com
 bejeweledstars.com
 bejewled-stars.com
+benefitsforeveryworld.com
 bestdori.com
 beth.games
 bethesda.net
@@ -226,9 +230,15 @@ bytedapm.com
 c.ppy.sh
 callersbane.com
 callhulu.com
+callofduty.com
+callofdutyendowment.com
+callofdutyendowment.org
+callofdutyleague.com
+callofdutymobile.com
 camelot-europe.com
 camelotherald.com
 camelotherald.net
+candycrush.com
 capitalgames.com
 capturingreality.com
 castro.fm
@@ -271,6 +281,7 @@ convrgencegame.com
 copy-manga.com
 copy20.com
 copy2000.online
+crashbandicoot.com
 crossout.net
 crsed.net
 crunchyroll.com
@@ -352,6 +363,7 @@ ddacn6pr5v0tl.cloudfront.net
 ddpjwstwtpszg.cloudfront.net
 deadspacegame.com
 deezer.com
+demonware.net
 denfaminicogamer.jp
 dengekionline.com
 detpress.com
@@ -359,7 +371,9 @@ deviantart.com
 deviantart.net
 dfp6rglgjqszk.cloudfront.net
 dgeft87wbj63p.cloudfront.net
+diablo.com
 diablo3.com
+diablo4.com
 diabloimmortal.com
 dialga.com
 dice.se
@@ -567,6 +581,7 @@ espncdn.com
 espndotcom.tt.omtrdc.net
 espnqa.com
 esports.gg
+europeanwarzoneseries.com
 excitebots.com
 ext-twitch.tv
 f1.com
@@ -755,6 +770,7 @@ heroesofdragonage.com
 heroesofthestorm.com
 hibiki-cast.jp
 hidive.com
+highmoonstudios.com
 hikosen.co.jp
 historyofdota.com
 historyofdota.net
@@ -832,6 +848,7 @@ inappcheck.itunes.apple.com
 indazn.com
 indaznlab.com
 industrialtoys.com
+infinityward.com
 init.itunes.apple.com
 inside-games.jp
 insights-collector.gog.com
@@ -894,6 +911,7 @@ kfs.io
 kgisystems.com
 kick.com
 kinescopecdn.net
+king.com
 kingkong.com.tw
 kingkongapp.com
 kinopoisk-ru.clstorage.net
@@ -1363,6 +1381,7 @@ radgametools.com
 radiko-cf.com
 radiko.jp
 rateyourmusic.com
+ravensoftware.com
 ravm.tv
 rayark.download
 rayark.net
@@ -1468,6 +1487,7 @@ search.itunes.apple.com
 searchlightpictures.com
 seeurlpcl.com
 sekai.colorfulpalette.org
+sekirothegame.com
 sendvid.com
 sentry.ppy.sh
 sf-api-token-service.itunes.apple.com
@@ -1478,6 +1498,7 @@ shopdisney.com
 shops-disney.com
 showtime.com
 showtimeanytime.com
+sierragames.com
 sih-db.com
 sih.app
 silicagame.com
@@ -1486,6 +1507,8 @@ simcity.com
 simg.jp
 skate2.com
 sketchfab.com
+skylanders.com
+sledgehammergames.com
 sling.com
 slinginternational.com
 smartstream.ne.jp
@@ -1496,6 +1519,7 @@ snk-corp.info
 snkplaymore.info
 snmc.io
 snowmiku.com
+solidstate.com
 sonematic.net
 sonemic.com
 sonyclassics.com
@@ -1535,6 +1559,7 @@ spotifyforbrands.com
 spotifyforvendors.com
 spotifyjobs.com
 spyjinx.com
+spyrothedragon.com
 sqool.net
 squadbusters.com
 ssl-lvlt.cdn.ea.com
@@ -1692,10 +1717,13 @@ tmdb-web-image-prod.b-cdn.net
 tmdb.org
 tnt-ea.com
 tokyodisneyresort.jp
+tonyhawk.com
+tonyhawkthegame.com
 tospotify.com
 toy-people.com
 tra-ww000-cp.akamaized.net
 trbcdn.net
+treyarch.com
 triokini.com
 ttcdn-us.com
 ttlivecdn.com
@@ -1843,6 +1871,7 @@ worldoftanks.eu
 worldofwarcraft.com
 worldofwarplanes.com
 worldofwarships.com
+worldseriesofwarzone.com
 wotblitz.com
 wowsblitz.com
 ws-blau.com
