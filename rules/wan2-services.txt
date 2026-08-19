@@ -87102,6 +87102,7 @@ s2ceda.com
 s2cinc.com
 s2g2b2c.com
 s3-ap-northeast-1.amazonaws.com
+s3.dualstack.us-west-2.amazonaws.com
 s3.mzstatic.com
 s361.com
 s369.com
@@ -106693,6 +106694,7 @@ windsurf.build
 windsurf.com
 windtch.com
 windtourgame.com
+windy.com
 wine-world.com
 wine9.com
 winegame.net
