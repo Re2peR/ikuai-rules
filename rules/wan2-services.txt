@@ -33380,6 +33380,7 @@ dreamcast.hk
 dreamchasercapital.com
 dreame.tech
 dreamershop.com
+dreamgen.com
 dreamkite.net
 dreammeta.net
 dreamo100.com
@@ -35832,7 +35833,6 @@ emlinix.com
 emlog.net
 emmmn.com
 emodor.com
-emoi-cncdn.bing.com
 emoji6.com
 emojimobile.com
 emoriko.com
@@ -37656,6 +37656,7 @@ fanshui.net
 fansiji.com
 fansimg.com
 fansjoy.net
+fansly.com
 fansobattery.com
 fansoon.com
 fanswong.com
@@ -76042,6 +76043,8 @@ nichuanbo.com
 nickbussok.com
 nicksxs.com
 nicky1605.com
+nico.ms
+nicochannel.jp
 nicodic.jp
 nicolaszhao.com
 nicomanga.jp
@@ -77496,6 +77499,7 @@ notebooklm.google
 notebooklm.google.com
 notebooklm.googleapis.com
 notedeep.com
+notegpt.io
 notepad-plus-plus.org
 notetao.com
 notetech.org
@@ -77512,6 +77516,7 @@ novastagepharma.com
 novastargame.net
 novaxinli.com
 novel-supertv.com
+novelai.net
 novelbio.com
 novelfm.com
 novelfmpic.com
@@ -78455,6 +78460,7 @@ oldj.net
 oldmanemu.net
 oldmanemu.org
 oldmantvg.net
+oldmapsonline.org
 oldpan.me
 ole-vod.com
 olecn.com
@@ -96812,6 +96818,7 @@ talk-cloud.net
 talk-fun.com
 talk.ai
 talk915.com
+talkai.info
 talkatone.com
 talkboxapp.com
 talkcc.com
@@ -102253,7 +102260,6 @@ upkao.com
 upkk.com
 upkuajing.com
 uplay.com
-uplaypc-s-ubisoft.cdn.ubi.com
 uplookedu.com
 uplooking.com
 upluck.cc

@@ -993,7 +993,6 @@ unrealtournament.com
 uo.com
 uoherald.com
 uplay.com
-uplaypc-s-ubisoft.cdn.ubi.com
 valve.net
 valvesoftware.com
 videos-rockstargames-com.akamaized.net

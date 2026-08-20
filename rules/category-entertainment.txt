@@ -1158,6 +1158,8 @@ nflxso.net
 nflxvideo.net
 nfsworld.com
 ngeo.com
+nico.ms
+nicochannel.jp
 nicodic.jp
 nicomanga.jp
 niconico.com
@@ -1789,7 +1791,6 @@ unsplash.com
 uo.com
 uoherald.com
 uplay.com
-uplaypc-s-ubisoft.cdn.ubi.com
 upp.itunes.apple.com
 uts-api.itunes.apple.com
 uxzw.club
