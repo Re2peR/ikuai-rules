@@ -4,7 +4,9 @@ clientservices.googleapis.com
 cloudsync-prod.s3.us-east-1.amazonaws.com
 dmhy.org
 googleapis.cn
+gstatic.com
 hoyolab.com
+hoyoverse.com
 ip.sb
 ipify.org
 mtalk.google.com
