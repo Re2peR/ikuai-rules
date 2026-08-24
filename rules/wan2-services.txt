@@ -13000,6 +13000,7 @@ api.moomoobull.com
 api.palworldgame.com
 api.pureapk.com
 api.recaptcha.net
+api.shuaiapi.com
 api.so
 api.steampowered.com
 api.viu.now.com
@@ -108760,6 +108761,7 @@ x7z.cc
 x81zw.co
 x81zw2.com
 x821.com
+x86.fr
 x86pi.com
 x8ds.com
 x8sb.com
