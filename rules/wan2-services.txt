@@ -41967,6 +41967,7 @@ getlantern.org
 getmalus.com
 getmarkman.com
 getmdl.io
+getmonero.org
 getoutline.org
 getpm.com
 getquicker.net
@@ -101708,6 +101709,7 @@ uhasadmin.com
 uhbthn.com
 uhcmu.com
 uhdbits.org
+uhdnow.com
 uhdwallpapers.org
 uhomecp.com
 uhomes.com
