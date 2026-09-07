@@ -946,6 +946,7 @@ kraftonde.com
 kyurem.com
 lapriere.jp
 last.fm
+lastfm-img.freetls.fastly.net
 lastfm.freetls.fastly.net
 lazer.ppy.sh
 lcsmerch.com
