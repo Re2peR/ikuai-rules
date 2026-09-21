@@ -78,6 +78,7 @@ envato-static.com
 envato.com
 envatousercontent.com
 flow.google
+flow.google.com
 gateway.ai.cloudflare.com
 geller-pa.googleapis.com
 gemini.google
@@ -120,6 +121,7 @@ minimax.io
 mistral.ai
 moonshot.ai
 mozilla.ai
+notebook.google
 notebook.google.com
 notebooklm-pa.googleapis.com
 notebooklm.google
