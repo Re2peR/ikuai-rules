@@ -20134,6 +20134,7 @@ c-wms.com
 c-yl.com
 c.admob.com
 c.android.clients.google.com
+c.go-mpulse.net
 c.mi.com
 c.pki.goog
 c.ppy.sh
@@ -102751,6 +102752,7 @@ vatn.org
 vattenvalve.com
 vauoo.com
 vautoshow.com
+vava8.com
 vaydeer.com
 vayol.com
 vayuan.com
