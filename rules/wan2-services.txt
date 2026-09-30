@@ -41755,6 +41755,8 @@ gemini.google
 gemini.google.com
 gemini.gstatic.com
 gemini530.net
+geminiweb-pa.clients.google.com
+geminiweb-pa.clients6.google.com
 gemled-tech.com
 gempharmatech.com
 gempoll.com
@@ -65485,6 +65487,7 @@ labno3.com
 labo.wovs.tk
 labs.google
 labs.google.com
+labstailwind.pa.googleapis.com
 labuladong.online
 labview.help
 labxing.com
@@ -71643,6 +71646,7 @@ meta-xuantan.com
 meta.ai
 meta.com
 meta.law
+metaaivm.com
 metacd.com
 metacritic.com
 metafilter.com
@@ -74018,6 +74022,7 @@ murphyyi.com
 muryi.net
 muscache.com
 muscdn.com
+muse.ai
 muse.ltd
 muselab-tech.com
 musenxi.com
@@ -78674,6 +78679,7 @@ openclaw.ai
 opencloudgpt.online
 opencloudos.org
 opencloudos.tech
+opencode.ai
 opencourt.vip
 opencreate.org
 opencritic.com
