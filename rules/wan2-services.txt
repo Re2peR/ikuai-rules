@@ -25282,6 +25282,7 @@ classpodcdn.com
 clau.de
 claude.ai
 claude.com
+claude.dev
 claudemcpclient.com
 claudemcpcontent.com
 claudeusercontent.com
@@ -91692,6 +91693,7 @@ sinf-test.net
 sinf.net
 sinflb.net
 sinforcon.com
+sing-box.sagernet.org
 singaporepaya.com
 singaporepools.com.sg
 singbon.com
