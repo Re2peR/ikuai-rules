@@ -72,5 +72,6 @@ testmy.net
 testmyspeed.com
 testskorosti.ru
 webtest.net
+wifiman.me
 www.speedtest.net.cdn.cloudflare.net
 xnfz.seu.edu.cn

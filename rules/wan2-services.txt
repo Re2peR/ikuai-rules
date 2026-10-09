@@ -20338,6 +20338,7 @@ caexpo.com
 caexpo.org
 cafachine.com
 cafamuseum.org
+cafe.github.com
 caffci.org
 cafr.ca
 cagentle.com
@@ -44124,8 +44125,6 @@ grapchina.org
 graph-fallback.instagram.com
 graph.instagram.com
 graph.org
-graph.whatsapp.com
-graph.whatsapp.net
 graphene.tv
 graphengine.io
 graphis.ne.jp
@@ -106434,6 +106433,7 @@ wifidog.pro
 wifigx.com
 wifijy.com
 wifilu.com
+wifiman.me
 wifimsl.com
 wifinew.com
 wifinews.com
