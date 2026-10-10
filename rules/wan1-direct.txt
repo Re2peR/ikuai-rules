@@ -20,9 +20,12 @@
 107.100.in-addr.arpa
 108.100.in-addr.arpa
 109.100.in-addr.arpa
+10fuzhu.com
+10laodian.com
 110.100.in-addr.arpa
 111.100.in-addr.arpa
 112.100.in-addr.arpa
+112114.eu.org
 112114.xyz
 113.0.203.in-addr.arpa
 113.100.in-addr.arpa
@@ -228,6 +231,7 @@ anythinktech.com
 anytocopy.com
 aoc.com
 aocdisplays.com
+aoxox.com
 ap-leasing.com
 api.myip.com
 apm-log-upload-os.hoyoverse.com
@@ -283,6 +287,7 @@ big-boss-tracker.net
 bigfoot1942.sektori.org
 bingshandashu.com
 bit-hdtv.com
+bitauto.hk
 bithq.org
 bitseduce.com
 bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -309,6 +314,7 @@ bowenkj.com
 boxim.online
 boxkj.com
 boyuemobile.com
+bs-iot.com
 bsbsb.top
 bt-club.ws
 bt-tracker.gamexp.ru
@@ -344,6 +350,8 @@ buny.uk
 bvarf.tracker.sh
 bvmlt.top
 bxlsj.com
+byyang.top
+byyoung.top
 bz.tracker.bz
 c.admob.com
 c.android.clients.google.com
@@ -890,6 +898,9 @@ dskj-ops.com
 dtinsure.com
 dtproj.top
 dushe1.app
+dw2.co
+dw8.co
+dw9.co
 dyn.riotcdn.net
 dytt8.com
 e0x233.com
@@ -944,6 +955,7 @@ firebase-settings.crashlytics.com
 fjdejing.com
 fjpit.com
 flingtrainer.com
+fm-vip.com
 fnspeed.net
 fofuai.com
 fontfiles.googleapis.com
@@ -1059,11 +1071,14 @@ gsstic.com
 gstatic-cn.com
 gstaticadssl.l.google.com
 gstore.val.manlaxy.com
+gta5max.com
+gtakm.com
 gtm.oasisfeng.com
 guaitao.cc
 guang233.com
 guangshiting.top
 guangyapan.com
+guyuns.asia
 gvgoo.com
 gvt1-cn.com
 gvt2-cn.com
@@ -1119,6 +1134,7 @@ hprtupgrade.com
 hrhgstock.com
 hsbc.com.hk
 hsdxdl.com
+hshh.org
 hstbroker.com
 hszq6.com
 htkgsx.com
@@ -1127,6 +1143,7 @@ hub.crdz.gq
 hub.gitmirror.com
 hub.rat.dev
 hub.xdark.top
+hueihuei.top
 huikao8.com
 hutaoyun.top
 hwbim.com
@@ -1170,6 +1187,7 @@ ip.plus
 ip159.com
 ip6.seeip.org
 ipapi.co
+ipjrh.com
 iposl.com
 ipshu.com
 ipv4.rer.lol
@@ -1189,6 +1207,7 @@ jh96095.com
 jiangningwater.com
 jiaoyanyun.com
 jieyoutsg.com
+jieyunwangluokeji.com
 jiliuwang.net
 jingheiot.com
 jinsan168.com
@@ -1258,6 +1277,7 @@ lezuan6.com
 lg3000.top
 lightmake.site
 linka2a.net
+linkcircle.net
 linux.sb
 lion.secure.dyn.riotcdn.net
 listenai.com
@@ -1277,6 +1297,7 @@ lsposed.zip
 lty02.com
 lucky.gd
 lv.queniujq.cn
+lw5.co
 lyihub.com
 lyilife.com
 m-team.cc
@@ -1289,6 +1310,7 @@ mariokart.com.cn
 marketing-sections.gog.com
 martin-gebhardt.eu
 masters-tb.com
+maticooads.com
 maxdo.tech
 mblyun.com
 mc-user.com
@@ -1349,6 +1371,7 @@ mypikpak.net
 myrny.xin
 myshopex.com
 mystery0.vip
+naitanghuyu.com
 naixi.com
 nanhuabx.com
 nanshe-tech.com
@@ -1403,6 +1426,7 @@ open.u-p.pw
 open.xxtor.com
 openappfilter.com
 openbittorrent.com
+opencool.top
 openevai.com
 openkylin.top
 opentor.org
@@ -1419,6 +1443,7 @@ oscar.reyesleon.xyz
 ossrs.net
 ottai.com
 ottiptv.cc
+ourom.top
 ourschool.cc
 p01.epsonconnect.com
 p2p.0g.cx
@@ -1426,6 +1451,7 @@ p2p.publictracker.xyz
 p4p.arenabg.com
 packertec.com
 pagead-googlehosted.l.google.com
+pailedi.com
 panjue.com
 paperang.com
 passnat.com
@@ -1440,6 +1466,7 @@ piedaochuan.top
 pinshuxsw.com
 pirate.t-1.org
 pixcheese.com
+pjnoeru.top
 pkghund.com
 pki-goog.l.google.com
 plex.direct
@@ -1473,6 +1500,7 @@ pubsub.tech
 pubt.net
 pvz1.com
 pwithe.com
+pziqna.net
 qg.lorzl.gq
 qianfan.app
 qiankunshopping.com
@@ -1484,6 +1512,7 @@ qiaoqiaoyun.com
 qiaoxuesi.com
 qingjiansoft.com
 qinglue.com
+qiongshu.net
 qiuquan.org
 qjmotorlink.com
 qmeng.top
@@ -1522,6 +1551,7 @@ rewards.bing.com
 riot-client.dyn.riotcdn.net
 riot-client.secure.dyn.riotcdn.net
 ritoplus.secure.dyn.riotcdn.net
+rkgamingstore.com
 router.asus.com
 router.ctc
 routerlogin.com
@@ -1536,6 +1566,7 @@ safebrowsing-cache.google.com
 safebrowsing.googleapis.com
 sanligu.top
 sapphiretech.com
+sbtia.com
 scbaijia.com
 scnyw.com
 scratch5.com
@@ -1554,6 +1585,7 @@ servandroidkino.ru
 server2.cn2gias.uk
 service.urchin.com
 setmeup.arubanetworks.com
+sgllife.com
 sgtv.ii00.cc
 shahidrazi.online
 shanghai-parking.com
@@ -1562,6 +1594,7 @@ share.camoe.cn
 share.dmhy.org
 share.hkg-fansub.info
 share123.top
+shenzhendongwei.com
 shineacc.com
 shnflac.net
 shsw.top
@@ -1578,6 +1611,7 @@ siambt.com
 sisiim.com
 sixloy428.top
 sjchess.com
+sjyywy.com
 skktec.com
 sksight.com
 skxvc.com
@@ -1585,6 +1619,7 @@ snfox.com
 snltty.com
 soulteary.com
 spisec.com
+spst1.com
 sptv.ii00.cc
 ssjj2.com
 ssl-google-analytics.l.google.com
@@ -1622,12 +1657,14 @@ supermariobros.com.cn
 supersmashbros.cn
 supersmashbros.com.cn
 susudesu.com
+suto.top
 suu-fun.com
 suyur.com
 svyun.com
 sxlljm.com
 sxstczx.com
 sy1.top
+szfx.top
 sztopten.com
 t-115.rhcloud.com
 t.213891.xyz
@@ -1647,9 +1684,11 @@ tac.googleapis.com
 taichuansmart.com
 tailgdd.com
 tailscale.com
+taiqp.com
 tajiduo.com
 talk-cloud.net
 tamas3.ynh.fr
+tange365.com
 tangguobaohe.com
 tc-boxing.com
 tclai.top
@@ -1666,6 +1705,7 @@ tggfl.com
 tgpro.net
 tgpro.top
 thegeeks.bz
+thejoyridegames.com
 theluyuan.com
 theoccult.bz
 theplace.bz
@@ -1676,6 +1716,7 @@ thinkerride.com
 thispx.com
 thmnet.com
 threep.top
+threewinnersid.com
 tianlala.com
 tianruo.xyz
 timbrd.com
@@ -1946,6 +1987,7 @@ vip-cdn.com
 vipjiapu.com
 visionariopro.com
 vlan5.com
+volcanomob.com
 vpsjyz.com
 vtools.online
 vv1865.com
@@ -1964,6 +2006,7 @@ wg.mortis.me
 wildfirechat.net
 wildrift.dyn.riotcdn.net
 wildrift.secure.dyn.riotcdn.net
+wisecleaner.net
 wjx.top
 wlcdn88.com
 wlkac.com
@@ -1995,6 +2038,7 @@ xbtrutor.com
 xdqtech.com
 xdtool.com
 xesabc.com
+xesim.cc
 xesim.net
 xfltd.org
 xgzb.top
@@ -2051,6 +2095,7 @@ ycjintou.com
 ycyct.com
 ydayc.com
 yhxjkj.top
+yi-ll.com
 yibanbianji.com
 yicaiykt.com
 yingshi.dog
@@ -2064,6 +2109,7 @@ yooc.me
 yostar.cn
 youqian.pro
 youzhiyouxing.com
+yshoufa.com
 yueti.vip
 yunqin.online
 yunzuoye.net
@@ -2080,6 +2126,7 @@ zhaiad.com
 zhangleglobal.com
 zhewx.com
 zhi10.com
+zhidianmijin.top
 zhiexa.com
 zhituwujie.com
 zhixingyunke.com
@@ -2091,6 +2138,7 @@ zjjslawyer.com
 zjshulong.com
 zjxhedu.com
 zllinks.com
+zmaticoo.com
 zmis.me
 znnu.com
 znztv.com
