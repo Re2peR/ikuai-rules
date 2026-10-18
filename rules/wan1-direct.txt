@@ -1287,6 +1287,8 @@ ljj233.top
 local.adguard.org
 localhost.ptlogin2.qq.com
 localhost.sec.qq.com
+localhost.weixin.qq.com
+localhost.work.weixin.qq.com
 lol.dyn.riotcdn.net
 lol.secure.dyn.riotcdn.net
 longmenshuju.com
