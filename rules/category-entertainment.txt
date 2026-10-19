@@ -129,7 +129,6 @@ armaplatform.com
 artstation.com
 artstationmedia.com
 artstorm.com
-asobostudio.com
 assets.ppy.sh
 att.tv
 atttvnow.com
@@ -615,8 +614,6 @@ fireemblemawakening.com
 fireside.fm
 firesidegatherings.com
 fitgirl-repacks.site
-flightsimulator.azureedge.net
-flightsimulator.com
 flipnotestudio.com
 forgecdn.net
 formula1.com
@@ -1372,6 +1369,7 @@ pscdn.co
 ptzwx.com
 pubg.com
 pubg1.battleye.com
+pv-cdn.net
 pvp.net
 pvp.tv
 pvr-hamivideo.cdn.hinet.net

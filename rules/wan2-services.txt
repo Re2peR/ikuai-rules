@@ -13655,7 +13655,6 @@ aso100.com
 aso114.com
 aso120.com
 asoasm.com
-asobostudio.com
 asosde.com
 asosoaiid.com
 asp-cc.com
@@ -38583,8 +38582,6 @@ flickr.com
 fliggy.com
 fliggy.hk
 flightroutes24.com
-flightsimulator.azureedge.net
-flightsimulator.com
 flikfill.com
 flintech.org
 flintos.com
@@ -81529,6 +81526,7 @@ puyuan-electric.com
 puzeyf.com
 puzzle8.com
 puzzles100.com
+pv-cdn.net
 pv001.com
 pv138.com
 pv265.com
