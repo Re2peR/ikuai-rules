@@ -64156,6 +64156,9 @@ kovemoto.com
 kowloonhospital.com
 koyuki.cc
 koz.moe
+kp-config-smart-tv.akamaized.net
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
+kp.yandex.net
 kpacg.com
 kpblw.com
 kpbyd.com
@@ -69676,6 +69679,7 @@ magicwatchface.com
 magicwinmail.com
 magireco.moe
 magma.ink
+magnific.com
 magnoliaav.com.cn
 magnotel.com
 magook.com
