@@ -12344,6 +12344,7 @@ ant-biz.com
 ant-cloud.net
 ant-financial.com
 ant-open.com
+ant.dev
 anta.com
 antafu.com
 antaiib.com
@@ -12377,6 +12378,7 @@ anthemgame.com
 anthemthegame.com
 anthonycalzadilla.com
 anthropic.com
+anthropic.team
 antibanads.com
 antibodychina.com
 anticheatexpert.com
@@ -12401,6 +12403,7 @@ antrol.com
 antsdaq.com
 antso.com
 antsoo.com
+antspace.dev
 antto.cc
 antuan.com
 antuan365.com
@@ -14036,8 +14039,10 @@ avilive.com
 avinex.com
 avischina.com
 avistaz.to
+avito.com
 avito.ru
 avito.st
+avito.tech
 avivaqueen.com
 avl-hitec.com
 avlinsight.com
@@ -22328,6 +22333,7 @@ chat778.com
 chatairc.com
 chatanywhere.tech
 chatartpro.com
+chatbotclaude.com
 chateaustarriver.com
 chatglm.site
 chatgpt.com
@@ -24967,10 +24973,16 @@ classpod.com
 classpodcdn.com
 clau.de
 claude.ai
+claude.app
 claude.com
 claude.dev
+claude.new
+claude.site
+claudeacademy.com
 claudemcpclient.com
 claudemcpcontent.com
+claudepages.dev
+claudestudio.com
 claudeusercontent.com
 claviercn.com
 clawchat.com
@@ -38631,6 +38643,17 @@ flumatic.com
 flutter.dev
 flutterapp.com
 flutterchina.club
+fluxer.app
+fluxer.com
+fluxer.dev
+fluxer.gg
+fluxer.gift
+fluxer.media
+fluxer.tools
+fluxerapp.com
+fluxerstatic.com
+fluxerstatus.com
+fluxerusercontent.com
 flvcd.com
 flvpw.com
 flvsp.com
@@ -77406,6 +77429,7 @@ o2packs.com
 o2pcn.com
 o3.ru
 o33249.ingest.sentry.io
+o33249.ingest.us.sentry.io
 o365cn.com
 o365files.cn
 o365weve-dev.com
