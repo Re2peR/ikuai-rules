@@ -29278,6 +29278,7 @@ d3games.com
 d3iz9md.com
 d3lh5kkip965lj.cloudfront.net
 d3nwj80emtnjeo.cloudfront.net
+d3stzm2eumvgb4.cloudfront.net
 d3tt.com
 d3ucl0eqgl80l5.cloudfront.net
 d3vd9lfkzbru3h.cloudfront.net
@@ -56585,6 +56586,8 @@ internationalbrand.net
 internationalsaimoe.com
 internbird.com
 internet.org
+internet.yandex.com
+internet.yandex.ru
 internetexplorer.co
 internetexplorer.com
 internetfreedom.org
