@@ -1539,6 +1539,7 @@
 123aoe.com
 123av.com
 123av.me
+123av.org
 123baofeng.com
 123bo.com
 123boligang.com
@@ -21494,6 +21495,10 @@ cdp1998.org
 cdp2006.org
 cdpeu.org
 cdpgroupltd.com
+cdpred.services
+cdprojekt.com
+cdprojekt.red
+cdprojektred.com
 cdpuk.co.uk
 cdpweb.org
 cdpwu.org
@@ -28920,6 +28925,7 @@ cyber-bay.info
 cyber-bay.org
 cyberghostvpn.com
 cybermondaybeats4sale.com
+cyberpunk.net
 cyberspace.com
 cybertogether.net
 cyberway-china.net
@@ -41137,7 +41143,6 @@ gdtex.com
 gdtextbook.com
 gdtianrun.com
 gdtianshanoa.com
-gdtimg.com
 gdton.com
 gdtongda.com
 gdtongjiang.com
@@ -54910,7 +54915,6 @@ icloud-isupport.com
 icloud-power.com
 icloud-sandbox.com
 icloud.ch
-icloud.cn
 icloud.com
 icloud.com.cn
 icloud.de
@@ -63619,6 +63623,7 @@ kimiss.com
 kimiss.net
 kimiter.com
 kimleo.net
+kimootoko.net
 kimqi.net
 kimsom.com
 kimxz.com
@@ -72164,6 +72169,7 @@ minixiazai.com
 miniyounger.com
 minjichem.com
 minkave.com
+minkch.com
 minking.cc
 minli.com
 minmetals.com
@@ -73179,6 +73185,7 @@ movements.org
 movenetworks.com
 movesky.net
 movetv.com
+movie.eroterest.net
 movie.xeton.dev
 movie365.tv
 moviefap.com
@@ -75964,7 +75971,10 @@ njaline.com
 njanmu.com
 njaolian.com
 njaoti.com
+njav.com
+njav.tv
 njavc.com
+njavtv.com
 njbaisou.com
 njbaoxun.com
 njbdhb.com
@@ -80588,6 +80598,7 @@ playfabapi.com
 playfamily.ru
 playfifa.com
 playgm.cc
+playgwent.com
 playhearthstone.com
 playlu.com
 playmation.com
@@ -80721,6 +80732,7 @@ pnty1688.com
 pnwww.com
 pnzpw.com
 pnzxyy.com
+po-kaki-to.com
 po.co
 po2b.com
 po7ryumvkx34.com
@@ -97932,6 +97944,7 @@ thewestinpazhou.com
 thewgo.org
 thewhitedragons.com
 thewirechina.com
+thewitcher.com
 thewonderful101.com
 thewowa.com
 thexnode.com
@@ -121495,6 +121508,7 @@ zoyst.com
 zoyuecs.com
 zozen.com
 zozotown.com
+zozovideo.com
 zp.cc
 zp.do
 zp005.com
