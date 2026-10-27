@@ -13109,6 +13109,9 @@ appsecurity.top
 appserviceenvironment.cn
 appsflower.com
 appsflyer-cn.com
+appsgenaiserver-pa.clients.google.com
+appsgenaiserver-pa.clients6.google.com
+appsgenaiserver-pa.googleapis.com
 appshike.com
 appshop.cc
 appshopper.com
@@ -29781,6 +29784,7 @@ dasung.com
 dasungtech.com
 dat881.com
 data-vocabulary.org
+data.microsoft.com
 data18.com
 data380.com
 data5u.com
@@ -30068,6 +30072,8 @@ dbscar.com
 dbshop.net
 dbyun.net
 dc-cn.com
+dc.applicationinsights.azure.com
+dc.services.visualstudio.com
 dc0792.com
 dc168cc6a2fe73d3.com
 dc625.com
@@ -56011,6 +56017,7 @@ in-tencentclb.cloud
 in-tencentclb.com
 in-tencentclb.net
 in-tencentclb.work
+in.applicationinsights.azure.com
 in.th
 in001.com
 in66.com
@@ -67356,6 +67363,7 @@ livanauto.com
 live-helps.com
 live-video.net
 live-voip.com
+live.applicationinsights.azure.com
 live.com
 live.com.au
 live.eu
@@ -85841,6 +85849,7 @@ rt-ics.com
 rt-thread.com
 rt-thread.io
 rt-thread.org
+rt.services.visualstudio.com
 rtacdn-os.com
 rtahengtai.com
 rtalabel.org
@@ -96948,6 +96957,7 @@ telehr.com
 teleinfoo.com
 telekoml.cfd
 teleland.net
+telemetry.microsoft.com
 teleows.com
 telesco.pe
 telesell.com
