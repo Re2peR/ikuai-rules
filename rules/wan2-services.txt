@@ -13371,6 +13371,7 @@ arthurchiao.art
 arthurpharma.com
 articclothes.com
 article.cool
+artificialanalysis.ai
 artimg.net
 artinchip.com
 artisan-cloud.com
@@ -24922,6 +24923,7 @@ cliim.com
 cliim.net
 clijc.com
 climedic.com
+cline.bot
 clinica-tibet.ru
 clipconverter.cc
 clipdrop.co
@@ -26621,6 +26623,7 @@ comingchina.com
 comlan.com
 comlbs.com
 commandandconquer.com
+commandcode.ai
 commchina.net
 comme.work
 comments.app
@@ -26726,6 +26729,7 @@ contentchina.com
 contentstore.htcvive.com
 contest.com
 contests.twilio.com
+context7.com
 controlinai.com
 conuo.com
 convertlab.com
@@ -38014,6 +38018,7 @@ filipino-music.net
 fillersmart.com
 fillseo.com
 film-yuelongchina.com
+filmorigin.com
 fily.fun
 fim34s.com
 fimmu.com
@@ -62623,6 +62628,7 @@ kakao.com
 kakappt.com
 kakashuzi.net
 kakatx.com
+kakaxing.com
 kakayuy.net
 kaken-china.com
 kaku-scdn.com
@@ -71032,6 +71038,7 @@ meta-xuantan.com
 meta.ai
 meta.com
 meta.law
+metaaiusercontent.com
 metaaivm.com
 metacd.com
 metacritic.com
@@ -76762,6 +76769,7 @@ notonlymoon.com
 notrisk.com
 nottinghampost.com
 nouriz.com
+nousresearch.com
 nova-test.com
 novaicare.com
 novapps.com
@@ -88541,7 +88549,9 @@ sh-nemoto.com
 sh-oca.com
 sh-pet.com
 sh-pn.com
+sh-pod1-smp-device.apple.com
 sh-pod2-smp-device.apple.com
+sh-pod3-smp-device.apple.com
 sh-pp.com
 sh-printing.com
 sh-prosperity.com
