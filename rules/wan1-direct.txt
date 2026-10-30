@@ -48,7 +48,9 @@
 126.100.in-addr.arpa
 127.100.in-addr.arpa
 127.in-addr.arpa
+12zayb.com
 1337.abcvg.info
+153532.com
 16.172.in-addr.arpa
 168.192.in-addr.arpa
 17.172.in-addr.arpa
@@ -80,6 +82,7 @@
 31.172.in-addr.arpa
 365ting.com
 365wp.top
+3688baihuo.com
 3ced.top
 3d-apollo.com
 3dwhere.com
@@ -89,6 +92,7 @@
 44nc.com
 4942.cc
 4kgj.com
+4kzn.cc
 4xiaoshuo.org
 51kandianshi.com
 51mowan.com
@@ -125,8 +129,10 @@
 737698.xyz
 74.100.in-addr.arpa
 75.100.in-addr.arpa
+757abc.com
 76.100.in-addr.arpa
 77.100.in-addr.arpa
+77shuku.info
 77shuku.org
 78.100.in-addr.arpa
 79.100.in-addr.arpa
@@ -152,6 +158,7 @@
 89.100.in-addr.arpa
 8kc.top
 8x14khzwmi.com
+8z8dlsjkn2.com
 9.e.f.ip6.arpa
 9.rarbg.com
 9.rarbg.me
@@ -207,6 +214,7 @@ aigodlike.com
 ainfinit.com
 aisnogames.com
 aistudio-app.com
+aitongqian.com
 aiyohoo.com
 akamai.cdn.steampipe.steamcontent.com
 akamaihd.net
@@ -249,6 +257,7 @@ assets1.xboxlive.cn
 assets1.xboxlive.com
 assets2.xboxlive.cn
 assets2.xboxlive.com
+astrobox.online
 asusrouter.com
 atrack.pow7.com
 atticus.vip
@@ -266,9 +275,11 @@ baicaf.com
 baidu94.com
 baiyishequ.com
 bajie.la
+bambulab.com
 banban.work
 bandito.byterunner.io
 banxueketang.com
+baoku.one
 baominggongju.com
 batchat.com
 bdcb.cc
@@ -314,6 +325,7 @@ bowenkj.com
 boxim.online
 boxkj.com
 boyuemobile.com
+browserscan.net
 bs-iot.com
 bsbsb.top
 bt-club.ws
@@ -342,6 +354,7 @@ bt2.edwardk.info
 bt4.t-ru.org
 btfile.sdo.com
 btracker.top
+btsel5g.cc
 bttracker.debian.org
 btx.anifilm.tv
 bubu.mapfactor.com
@@ -768,8 +781,10 @@ canardscitrons.nohost.me
 canghaiip.com
 cangjie-lang.net
 carbon-bonsai-621.appspot.com
+cbn.id
 cc.ink
 cc39ute.shop
+cc44dd.com
 ccw.site
 cdn-ali.content.steamchina.com
 cdn-qc.content.steamchina.com
@@ -783,6 +798,8 @@ cftunnel.com
 cg3da.com
 cgicop.com
 ch3oh.ru
+changjirb.com
+changzhi.top
 chaxunjiao.com
 chaz.fun
 checkin.gstatic.com
@@ -800,6 +817,8 @@ chuguansmart.com
 chujingapp.com
 chushi.cool
 ciallo.party
+cindy.app
+ciyuancenter.cc
 clickserve.cc-dt.com
 clickserve.dartsearch.net
 clickserver.googleads.com
@@ -823,6 +842,7 @@ concen.org
 cone-x.com
 congmiqq.com
 connectivitycheck.gstatic.com
+constantinefun.com
 constasj.me
 content.cdp.bethesda.net
 coppersurfer.tk
@@ -861,6 +881,7 @@ denis.stalker.upeer.me
 deviloid.net
 dfhog.com
 dg-meta.video.google.com
+dg3yy.com
 dhub.kubesre.xyz
 diandaojia.net
 dingdingzn.com
@@ -907,7 +928,9 @@ e0x233.com
 eagsen.com
 easytier.top
 easytomessage.com
+ec766.com
 eceshi.com
+ectaiping.com
 ed2k.vip
 edge.steam-dns.top.comcast.net
 egdownload.fastly-edge.com
@@ -934,6 +957,7 @@ exodus.desync.com
 explodie.org
 extracker.dahrkael.net
 eye4cloud.com
+eyosc.com
 faka163.com
 fastify.cc
 fastly-download.epicgames.com
@@ -987,6 +1011,7 @@ g0.gstatic.com
 g1.gstatic.com
 g2.gstatic.com
 g3.gstatic.com
+gacicv.com
 gaishitongshu.com
 galaxy-promos.gog.com
 game.maj-soul.com
@@ -1072,7 +1097,11 @@ gstatic-cn.com
 gstaticadssl.l.google.com
 gstore.val.manlaxy.com
 gta5max.com
+gta5studio.com
+gta5xforce.com
+gta6keji.com
 gtakm.com
+gtazhiyu.com
 gtm.oasisfeng.com
 guaitao.cc
 guang233.com
@@ -1085,6 +1114,7 @@ gvt2-cn.com
 gwmapp-w.com
 gxcould.com
 gxnnjidingkeji.top
+gxnnxsqy.top
 gxrke1715.com
 gzjkoa.com
 gzybao.com
@@ -1094,8 +1124,11 @@ h6009.top
 haimaiedu.net
 halvie.com
 ham.xin
+handfree.work
 hangnakeji.com
+hanoking.com
 hanqiuming888.com
+hanzhe.site
 haofanhuoban.com
 haojieyun.com
 haoxueche.com
@@ -1108,6 +1141,7 @@ hdbz.net
 hdcm00.com
 hdreactor.org
 hexiny.com
+heysida.com
 hezuvip.com
 hf-mirror.com
 hfhs8x.info
@@ -1145,6 +1179,7 @@ hub.rat.dev
 hub.xdark.top
 hueihuei.top
 huikao8.com
+human-horizons.com
 hutaoyun.top
 hwbim.com
 hwjianmo.com
@@ -1156,6 +1191,7 @@ hzqsn.com
 hzssjp.com
 hzttwl.com
 hzyi.eu.org
+i955jr0pk.com
 ibnjl.shop
 ibwm5lynb6.com
 icvcs.com
@@ -1170,12 +1206,12 @@ ijingyi.com
 ilucky.net
 imacos.top
 imasdk.googleapis.com
-immortalwrt.org
 indeedpower.com
 inetlab.top
 inextos.com
 inferno.demonoid.is
 infini-fantasy.com
+infistar.cc
 initaq.com
 inmobicdn.net
 instant.arubanetworks.com
@@ -1193,6 +1229,7 @@ ipshu.com
 ipv4.rer.lol
 ipv4.tracker.harry.lu
 ipv4announce.sktorrent.eu
+iq.com
 iquantumad.com
 irrenhaus.dyndns.dk
 isk.richardsw.club
@@ -1238,6 +1275,7 @@ kaspersky-labs.com
 kaspersky.com
 kasperskydaily.com
 kaztorka.org
+kbser.com
 kcbd.top
 kcttpa.com
 kejiweixun.com
@@ -1261,6 +1299,8 @@ kwai.net
 lanyun.net
 laogongju.com
 latexlive.com
+laupqc.com
+ldboost.com
 leadweigh.com
 leagueoflegends.cn
 learnbits.me
@@ -1283,12 +1323,14 @@ lion.secure.dyn.riotcdn.net
 listenai.com
 liunn.com
 liveperson.net
+liyunol.com
 ljj233.top
 local.adguard.org
 localhost.ptlogin2.qq.com
 localhost.sec.qq.com
 localhost.weixin.qq.com
 localhost.work.weixin.qq.com
+lodop.net
 lol.dyn.riotcdn.net
 lol.secure.dyn.riotcdn.net
 longmenshuju.com
@@ -1302,6 +1344,7 @@ lv.queniujq.cn
 lw5.co
 lyihub.com
 lyilife.com
+lzgame.top
 m-team.cc
 m-team.io
 machtalk.net
@@ -1343,6 +1386,7 @@ mifon.com
 mifosy.com
 miitomo.com.cn
 milliontorrent.pl
+minekuai.com
 minor-api-os.hoyoverse.com
 miraiemby.com
 miwifi.com
@@ -1351,6 +1395,7 @@ mixly.org
 mobai.sbs
 mock-game.dyn.riotcdn.net
 mock-game.secure.dyn.riotcdn.net
+moctory.com
 modaiyun.com
 modelscope.net
 monkeyray.net
@@ -1373,6 +1418,7 @@ mypikpak.net
 myrny.xin
 myshopex.com
 mystery0.vip
+myviewcloud.com
 naitanghuyu.com
 naixi.com
 nanhuabx.com
@@ -1385,6 +1431,7 @@ nicezhuanye.com
 nintendolabo.cn
 nintendoswitch.cn
 nintendoswitch.com.cn
+njlisi.top
 njonemall.com
 nkxingxh.top
 nlyd.club
@@ -1394,6 +1441,7 @@ nnm-club.info
 no-mad-sub.one
 nodcloud.com
 noyer.eu.org
+nuanxinhm.com
 nwiztech.com
 nxog.top
 nyaa.tracker.wf
@@ -1408,6 +1456,7 @@ oh.fuuuuuck.com
 ok321.top
 omq.cc
 onebuygz.com
+onesetapp.com
 onetoken.sh
 onetools.top
 open-tracker.demonoid.ch
@@ -1453,6 +1502,7 @@ p2p.publictracker.xyz
 p4p.arenabg.com
 packertec.com
 pagead-googlehosted.l.google.com
+paijitang.com
 pailedi.com
 panjue.com
 paperang.com
@@ -1495,7 +1545,9 @@ prod-databe.floonet.goog
 prod.cloudflare.cdn.ea.com
 prod.databe.floonet.goog
 psf0404.shop
+pthqzpc100.com
 ptlgs.org
+ptxzn.com
 public.demonoid.ch
 public.tracker.vraphim.com
 pubsub.tech
@@ -1525,8 +1577,8 @@ quanzhua.com
 quxuanshu.com
 qweapi.com
 qweatherapi.com
+qzy.xyz
 qzyun.net
-r2s.site
 ranwen.tw
 rayws.top
 recaptcha-cn.net
@@ -1559,6 +1611,9 @@ router.ctc
 routerlogin.com
 royqh.net
 rsfcxq.com
+rsmods.cc
+rsmods.me
+rsmods.net
 ruijie.com
 run.publictracker.xyz
 rxcrs.com
@@ -1575,6 +1630,7 @@ scratch5.com
 sct.ftqq.com
 scyol.com
 sdk-log-upload-os.hoyoverse.com
+sduc.cloud
 seaflysoft.com
 searchtor.to
 sections.gog.com
@@ -1590,15 +1646,18 @@ setmeup.arubanetworks.com
 sgllife.com
 sgtv.ii00.cc
 shahidrazi.online
+shandian.blog
 shanghai-parking.com
 shanghongbei.com
 share.camoe.cn
 share.dmhy.org
 share.hkg-fansub.info
 share123.top
+shccywlkj.xyz
 shenzhendongwei.com
 shineacc.com
 shnflac.net
+shrxnet.com
 shsw.top
 shuangqingtech.com
 shuangxiumall.com
@@ -1607,6 +1666,7 @@ shuinfo.com
 shulex.com
 shunjing.xin
 shuqiandiqiu.com
+shytkjgs.com
 shyxhy.com
 siambit.com
 siambt.com
@@ -1619,6 +1679,7 @@ sksight.com
 skxvc.com
 snfox.com
 snltty.com
+sollin.top
 soulteary.com
 spisec.com
 spst1.com
@@ -1653,6 +1714,7 @@ su-data.com
 sufe.me
 sugoi.pomf.se
 sukebei.tracker.wf
+sun-panel.top
 sunrisecontent.akamaized.net
 suntl.com
 supermariobros.com.cn
@@ -1667,6 +1729,7 @@ sxlljm.com
 sxstczx.com
 sy1.top
 szfx.top
+szmtzd.com
 sztopten.com
 t-115.rhcloud.com
 t.213891.xyz
@@ -1692,6 +1755,7 @@ talk-cloud.net
 tamas3.ynh.fr
 tange365.com
 tangguobaohe.com
+taotoken.net
 tc-boxing.com
 tclai.top
 tcp.mk
@@ -1723,6 +1787,7 @@ tianlala.com
 tianruo.xyz
 timbrd.com
 tixue.net
+tlkg.com
 tlu.dl.delivery.mp.microsoft.com
 tluyou.com
 tmallyc.com
@@ -1730,6 +1795,7 @@ tmwanba.com
 tnas.link
 tnas.online
 tongkask.com
+tongxids.com
 tool56.com
 tools.google.com
 topwd.top
@@ -1955,10 +2021,12 @@ tumukaoyan.com
 tuxing.art
 tvnihon.com
 twinkstar.com
+twtapp.com
 type.fun
 tztec.top
 u-carloan.com
 u.peer-exchange.download
+u5nm5uvh1w.com
 uascent-iot.com
 uatracker.net
 ubisoftconnect.cdn.ubi.com
@@ -1975,6 +2043,7 @@ uplaypc-s-ubisoft.cdn.ubi.com
 uplaypc-s-ubisoft.cdn.ubionline.com.cn
 us.cdn.blizzard.com
 us.ci
+v-koolsh.com
 valorant.dyn.riotcdn.net
 valorant.secure.dyn.riotcdn.net
 vanjee.net
@@ -1986,6 +2055,7 @@ vclbrokers.com
 vcltrade.com
 vgogbuy.com
 vip-cdn.com
+vip666ai.com
 vipjiapu.com
 visionariopro.com
 vlan5.com
@@ -1993,10 +2063,15 @@ volcanomob.com
 vpsjyz.com
 vtools.online
 vv1865.com
+vvhan.com
+wallecube.com
+wanzd.com
 warmheart.top
+wawo.cc
 we-stats.com
 wear.googleapis.com
 webs.vc
+weiguangshanyao.com
 weixinpcs.com
 wenyi188.com
 wepzone.net
@@ -2019,6 +2094,7 @@ worldboxingvideoarchive.com
 wpurl.cc
 ws.peer.ooo
 wty-yy.top
+wuhanjijin.com
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 www.asusrouter.com
@@ -2032,6 +2108,7 @@ wwwwqq.com
 wxdw.top
 x-gpu.com
 x86pi.com
+xaippc.com
 xbcloudprint.com
 xbgjw.com
 xboxfan.com
@@ -2045,6 +2122,7 @@ xesim.net
 xfltd.org
 xgzb.top
 xhey.top
+xiamp.net
 xianghuiin.com
 xiankabao.com
 xiaoai.live
@@ -2054,12 +2132,14 @@ xiaochuanyun.com
 xiaolikj.online
 xiaomaicn.com
 xiaoxia.vip
+xiaoyao.co
 xiaoyuan888.com
 xiberia.net
 ximogo.com
 xingaochengtai.com
 xinghaiwaimai.com
 xingmojs.com
+xingpaste.com
 xingyaozhilian.com
 xinstall.top
 xiqueer.com
@@ -2069,6 +2149,7 @@ xixih.cc
 xkkapk.com
 xn--4kq62z5rby2qupq9ub.top
 xn--cesw6hd3s99f.com
+xn--estr6ge7tok1a.com
 xn--id-ov2cb7n32b01yl6auun2bpzk4p2dgip.com
 xn--mmz.cc
 xn--mts47c3w9b1qr.cn
@@ -2087,6 +2168,7 @@ xxjnjd.com
 xxrsm.com
 xyys.com
 xz.pphimalayanrt.com
+xzjykj.com
 xzong.online
 xzsckj.com
 xzzhtc.com
@@ -2103,6 +2185,8 @@ yicaiykt.com
 yingshi.dog
 yiso.fun
 yixc.com
+yldw.net
+ymwfy.com
 ymzec.com
 ynsj001.com
 yolo.liberbear.com
@@ -2111,12 +2195,14 @@ yooc.me
 yostar.cn
 youqian.pro
 youzhiyouxing.com
+yrqvlchq5.com
 yshoufa.com
 yueti.vip
 yunqin.online
 yunzuoye.net
 yuwabits.net
 yyshub.top
+yyxdmn.com
 yzcsoft.com
 z-tek.com
 z.paranoid.agency
