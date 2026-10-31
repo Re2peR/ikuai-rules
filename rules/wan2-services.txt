@@ -11833,6 +11833,7 @@ amcnetworks.com
 amcplus.com
 amcvoyages.com
 amd.com
+amdgaming.com
 amdotibet.com
 ameba.jp
 amebame.com
@@ -12263,6 +12264,7 @@ antgv.com
 anthemgame.com
 anthemthegame.com
 anthonycalzadilla.com
+anthropic.auth0.com
 anthropic.com
 anthropic.team
 antibanads.com
@@ -17048,6 +17050,7 @@ bingsandbox.com
 bingsettingssearch.trafficmanager.net
 bingshandashu.com
 bingsin.com
+bingstatic.com
 bingtuannet.com
 binguo.me
 bingvisualsearch.com
@@ -18989,6 +18992,7 @@ bsjyjt.com
 bskrt.com
 bskuav.com
 bsky.app
+bsky.chat
 bsky.network
 bsky.social
 bsmatrix.com
@@ -73161,6 +73165,7 @@ msfteducation.ca
 msftncsi.com
 msftnet.org
 msftonlinelab.com
+msftstatic.com
 msg.work
 msgamego.com
 msgamesresearch.com
@@ -98291,11 +98296,14 @@ tiktokglobalshopv.com
 tiktokminis.us
 tiktoknewaccount.com
 tiktokrow-cdn.com
+tiktokshop.com
+tiktokstaticb.com
 tiktokv.com
 tiktokv.com.edgekey.net
 tiktokv.com.edgesuite.net
 tiktokv.eu
 tiktokv.us
+tiktokvapp.com
 tiktokw.eu
 tiktokw.us
 tikv.org
