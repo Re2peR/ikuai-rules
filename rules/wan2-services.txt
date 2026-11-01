@@ -12591,6 +12591,7 @@ api.recaptcha.net
 api.shuaiapi.com
 api.so
 api.steampowered.com
+api.themoviedb.org
 api.viu.now.com
 apiairasia.com
 apiandroid.com
@@ -115583,6 +115584,7 @@ youtx.com
 youuav.com
 youuvs.com
 youversion.com
+youversionapi.com
 youwanplay.com
 youwawa.com
 youwei-china.com
