@@ -43707,6 +43707,7 @@ grnuo.com
 groad.net
 grok.com
 grok.x.com
+grokbot.com
 grokipedia.com
 groovymedicine.com
 groq.com
@@ -51985,6 +51986,7 @@ httdsj.com
 htths.com
 httingshu.com
 http-dns.com
+http-intake.logs.us5.datadoghq.com
 httpcanary.com
 httpfacebook.com
 httpsfacebook.com
@@ -77311,6 +77313,7 @@ o.pki.goog
 o014148q7p.com
 o0310o.com
 o0o0w.com
+o1158394.ingest.us.sentry.io
 o136.com
 o163.com
 o2123.com
@@ -81058,6 +81061,7 @@ prodcam.cc
 prodcutmodel.com
 prodforza.blob.core.windows.net
 product.co.jp
+production-copilot-host-westus.webpubsub.azure.com
 production-openaicom-storage.azureedge.net
 productionresultssa0.blob.core.windows.net
 productionresultssa1.blob.core.windows.net
