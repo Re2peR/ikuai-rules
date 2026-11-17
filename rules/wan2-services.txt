@@ -19194,6 +19194,7 @@ building.fun
 building9s.io
 buildjob.net
 buildnewapp.com
+builds.dotnet.microsoft.com
 buildwaterexpo.com
 builtfromebay.com
 buke999.com
@@ -20305,6 +20306,7 @@ caps-china.org
 capsuleshanghai.com
 captain-cro.com
 captainbi.com
+captive.apple.com
 capturetheflag.fun
 capturingreality.com
 capvision.com
@@ -26688,6 +26690,7 @@ conew.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.apple.com
 configuration.apple.com.akadns.net
+configuration.ls.apple.com
 confluxrpc.com
 conghua.com
 congmiqq.com
@@ -32499,6 +32502,7 @@ dotgate.com
 dothantech.com
 doticloud.com
 dotmac.de
+dotnetcli.trafficmanager.net
 dotplane.com
 dotreamexpo.com
 dotsub.com
@@ -73447,6 +73451,7 @@ musiceol.com
 musicgw.com
 musickit.net
 musiclemon.net
+musicstatus.itunes.apple.com
 musicstatus.music.apple.com
 musiness.vip
 musixmatch.com
@@ -74062,6 +74067,7 @@ mzsmn.com
 mzsrmyy.com
 mzssysmyxgs.com
 mzstatic.com
+mzstorekit.itunes.apple.com
 mzsvn.com
 mztgame.com
 mztspa.com
@@ -93991,6 +93997,7 @@ sundayguardianlive.com
 sundayvision.net
 sundns.com
 sundray.com
+sundry-star-net-geo.trafficmanager.net
 sunear.net
 sunease.net
 sunemc.com
